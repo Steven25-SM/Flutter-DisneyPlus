@@ -1,0 +1,9 @@
+PROYECTO DISNEY+ MOBILE REPARADO
+
+1. Abre ESTA carpeta disney_plus_mobile_reparado en VS Code (no la carpeta antigua).
+2. Ejecuta flutter pub get
+3. Ejecuta flutter run -d edge
+
+Se unificaron dos copias del proyecto, se corrigieron las 11 imágenes (extensiones/formato real), se agregó el logo Pixar faltante, se mantuvo el hero con BoxFit.cover y se corrigió el test de ejemplo.
+
+No se pudo ejecutar Flutter en el entorno de preparación.
